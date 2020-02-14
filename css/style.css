@@ -1,0 +1,41 @@
+body{
+    background-color: black;
+}
+
+h1{
+    color: whitesmoke;
+    font-family: 'Nanum Myeongjo', serif;
+    text-align: left;
+
+}
+h2{
+    color: whitesmoke;
+    font-family: 'Nanum Myeongjo', serif;
+    text-align: left;
+}
+h3{
+    color: whitesmoke;
+    background-color:black;
+    font-family: 'Nanum Myeongjo', serif;
+    text-align: left;
+}
+
+p{
+    color: lightgray;
+     font-family: 'Nanum Myeongjo', serif;
+
+}
+a{
+    text-align: left;
+    color: whitesmoke;
+}
+a:hover{
+    text-decoration-style: dotted;
+    text-align: end;
+}
+li{
+    list-style-type: disc;
+    color: white;
+}
+img{
+display: block; margin: 0px auto;}
